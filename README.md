@@ -29,4 +29,4 @@ Para obtener más detalles sobre cómo utilizar Power BI, puedes consultar la [d
 ![Ejemplo de Visualización](images/ejemplo_visualizacion.png)
 
 ## Contacto
-Si tienes alguna pregunta o comentario, por favor contacta a [tu email].
+Si tienes alguna pregunta o comentario, por favor contacta a marina.ramos.rg@gmail.com.
